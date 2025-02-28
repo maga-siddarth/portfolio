@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "2021 - 2024",
     role: "Front-End Developer",
     company: "Tech Mahindra.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `Worked in frontend web development using React.js, optimizing web page performance for a seamless user experience. Implemented efficient state management with Redux, ensuring scalable and maintainable application architecture. Focused on enhancing UI/UX, improving load times, and integrating dynamic components for better interactivity.`,
     technologies: ["Javascript", "React.js", "HTML", "CSS", "REST APIs"],
   },
 
@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     year: "2024 - 2025",
     role: "Student",
     company: "SoftLogic SLA",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
+    description: `Enhanced my expertise in web application development by upskilling in the MERN stack through a comprehensive course in Node.js, Express.js, and MongoDB. Gained hands-on experience by working on real-world projects, implementing scalable backend solutions, and optimizing database performance.`,
     technologies: [
       "ReactJs",
       "JavaScript",
